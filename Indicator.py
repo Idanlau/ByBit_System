@@ -8,8 +8,9 @@ from datetime import timedelta
 
 
 session = HTTP("https://api.bybit.com",
-               api_key="", api_secret="",
+               api_key="bL1lUGtthNQWKzWZRl", api_secret="ev86JZpG1jk4uISzdkTJwlEZkKFIOxcsO8S2",
          )
+
 
 
 cryptos = {"BTCUSDT":[], "ETHUSDT":[], "XRPUSDT":[], "EOSUSDT":[],
@@ -35,7 +36,7 @@ cryptos = {"BTCUSDT":[], "ETHUSDT":[], "XRPUSDT":[], "EOSUSDT":[],
            "LOOKSUSDT":[],"MBSUSDT":[],"DAIUSDT":[],"BUSDUSDT":[],"ACAUSDT":[],"MVUSDT":[],"MIXUSDT":[],
            "RSS3USDT":[],"SYNRUSDT":[],"TAPUSDT":[],"ERTHAUSDT":[],"GMXUSDT":[],"POSIUSDT":[],"TUSDT":[],
            "ACHUSDT":[],"JSTUSDT":[],"SUNUSDT":[],"BTTUSDT":[],"TRXUSDT":[],"NFTUSDT":[],"POKTUSDT":[],
-           "SCRTUSDT":[],"PSTAKEUSDT":[],"SONUSDT":[],"HEROUSDT":[],"DOMEUSDT":[],"ZBCUSDT":[],"USTUSDT":[],
+           "SCRTUSDT":[],"PSTAKEUSDT":[],"SONUSDT":[],"HEROUSDT":[],"DOMEUSDT":[],"ZBCUSDT":[],
            "BNBUSDT":[],"NEARUSDT":[],"PAXGUSDT":[],"SDUSDT":[],"APEUSDT":[],"FIDAUSDT":[],"MINAUSDT":[],
            "SCUSDT":[],"RACAUSDT":[],"IMEUSDT":[],"CAPSUSDT":[],"STGUSDT":[],"LMRUSDT":[]}
 
