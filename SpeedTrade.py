@@ -28,7 +28,7 @@ def sell(qty):
 
 
 # session = HTTP("https://api.bybit.com",
-#                api_key="bL1lUGtthNQWKzWZRl", api_secret="ev86JZpG1jk4uISzdkTJwlEZkKFIOxcsO8S2",
+#                api_key="", api_secret="",
 #          )
 
 session = HTTP("https://api-testnet.bybit.com",
